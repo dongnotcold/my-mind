@@ -1,7 +1,9 @@
-.ui, #toggle, #tip { 
-	display: none;
+.ui,
+#toggle,
+#tip {
+    display: none;
 }
 
 #port > .item {
-	position: static;
+    position: static;
 }
